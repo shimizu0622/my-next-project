@@ -16,6 +16,10 @@
     height: 24px;
     width: auto;
   }
+
+  .items {
+
+  }
   
   @media (max-width: 640px) {
     .header {
